@@ -1,0 +1,2 @@
+# Pavankumarshridhar31-Deep-Learning-Prognostics-Unraveling-Uterine-Cancer-Outcomes-with-FNN-Models
+Exploring uterine cancer intricacies, our project employs FNN models for predictive insights into endometrial carcinoma, the most common uterine cancer. Despite uncertain causes, our models shed light on uncontrolled growth and tumor formation, contributing a data-driven perspective to prognostic predictions.
